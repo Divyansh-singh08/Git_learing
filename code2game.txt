@@ -1,0 +1,2 @@
+code of the project store here and use git to manage all files and teams
+and this would be the game !
